@@ -11,3 +11,14 @@ Here I have implemented the part: Once a site manager add a purchase order above
 - Express
 - ReactJS
 - MongoDB
+
+## Unit testing React components &nbsp; :warning: 
+Main components of the ReactJS have been tested with Jest test runnner and Enzyme testing utility;
+
+<img src="screenshots/unit testing with jest and enzyme.PNG" width=500>
+
+## Screenshots of the Working Application
+<img src="screenshots/Order details display.PNG" width=400> &nbsp;&nbsp;&nbsp; <img src="screenshots/request permission orders.PNG" width=400> &nbsp;&nbsp;&nbsp; <img src="screenshots/update order details.PNG" width=400> &nbsp;&nbsp;&nbsp; <img src="screenshots/table structure 2.PNG" width=400>
+
+## MongoDB Database Collections and Documents
+<img src="screenshots/mongoDB databse orders.PNG" width=400> &nbsp;&nbsp;&nbsp; <img src="screenshots/mongoDB databse request permission orders.PNG" width=400>
