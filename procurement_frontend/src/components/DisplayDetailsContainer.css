@@ -1,0 +1,25 @@
+
+.modifyOps{
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    margin-right: 12px;
+}
+
+.edit.badge.badge-pill.badge-warning{
+    position: absolute;
+    right: 76px;
+    padding: 10px;
+}
+
+.delete.badge.badge-pill.badge-danger{
+    position: absolute;
+    right: 20px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.update.btn.btn-warning{
+    padding: 6px 20px;
+    border-radius: 10px;
+}
